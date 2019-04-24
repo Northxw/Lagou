@@ -6,7 +6,7 @@
 2. 设置 meta 参数的 cookiejar 请求职位列表页，获取服务器返回的Cookies
 3. 设置 meta 参数的 cookiejar 请求职位信息接口，回调给解析函数解析
 
-### 解释
+### 解释说明
 &emsp; 拉勾主要是Cookies反爬，所以在 Request 或者 FormRequest 时设置 meta 的 cookiejar 是必不可少的。为方便调试，Spider 中设置仅抓取职位列表的第一个职位的前10页数据，请根据需要自行更改代码，例如：
 ```Python
 ......
@@ -34,7 +34,7 @@ MAX_PAGES = 50
 ### 运行
 &emsp; Pycharm 中直接运行 main.py 文件即可。
 
-### 更新列表
+### 更新记录
 &emsp; 2019.4.15 已更新。
 
 ### 数据分析
@@ -43,3 +43,6 @@ MAX_PAGES = 50
 ![map](https://github.com/Northxw/Lagou/blob/master/Lagou/utils/other/map.png)
 
 ![map_2](https://github.com/Northxw/Lagou/blob/master/Lagou/utils/other/salary.png)
+
+## 公告
+&emsp; 本代码仅作学习交流，切勿用于商业用途，否则后果自负。若涉及拼多多侵权，请邮箱联系，会尽快处理。
