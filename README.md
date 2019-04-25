@@ -45,4 +45,4 @@ MAX_PAGES = 50
 ![map_2](https://github.com/Northxw/Lagou/blob/master/Lagou/utils/other/salary.png)
 
 ## 公告
-&emsp; 本代码仅作学习交流，切勿用于商业用途，否则后果自负。若涉及拼多多侵权，请邮箱联系，会尽快处理。
+&emsp; **本代码仅作学习交流，切勿用于商业用途，否则后果自负。若涉及拉勾侵权，请邮箱联系，会尽快处理。**
